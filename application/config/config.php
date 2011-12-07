@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '';
+$config['base_url']	= 'https://code.google.com/p/student-grading-system/source/browse/trunk/';
 
 /*
 |--------------------------------------------------------------------------
